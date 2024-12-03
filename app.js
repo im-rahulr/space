@@ -88,8 +88,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // Add typing effect to the main title
     const title = document.querySelector('h1');
     if (title) {
-        const originalText = "Pioneering the Future of ";
-        const highlightText = "Space Research";
+        const originalText = "Discover sapce ";
+        const highlightText = "For all Mandkind ✨";
         title.innerHTML = '';
         let i = 0;
         let isTypingHighlight = false;
